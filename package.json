@@ -1,0 +1,17 @@
+{
+  "name": "tchat",
+  "version": "1.0.0",
+  "description": "Real time chat app with node and socket.io",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "author": "Bekithemba Mdluli",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.26.0",
+    "nodemon": "^2.0.4",
+    "socket.io": "^2.3.0"
+  }
+}
